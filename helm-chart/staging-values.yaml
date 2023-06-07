@@ -1,0 +1,4 @@
+# Staging values for SuperTokens Core.
+
+apiKeys:
+  keys: ["foobarbaz"]
